@@ -1,0 +1,1 @@
+Automatically scans the file system for newly added or modified HEIC files and converts them to jpg. Helpful for Mac + iPhone users, repository includes automator app as well which you can configure to run at startup using login items
